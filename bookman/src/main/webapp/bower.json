@@ -13,6 +13,7 @@
     "tests"
   ],
    "dependencies": {
-    "bootstrap": "~3.3.7"
+    "bootstrap": "~3.3.7",
+"jquery-validation-bootstrap-tooltip": "0.10.2"
   }
 }
